@@ -8,18 +8,23 @@
 #  education3:
 #  education4:
 
-- name: Ilse Kuijf 
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+- name: Linde Hesse
+  photo: Linde.jpg
+  info: DPhil student
+  email: linde.hesse(at)eng.ox.ac.uk
   number_educ: 0
   education1:
 
-- name: Tessa Van der Ent
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+- name: Hoda Kalabizadeh
+  photo: Hoda.jpg
+  info: DPhil student
+  email: hoda.kalabizadeh(at)cs.ox.ac.uk
   number_educ: 0
   education1:
 
-
+- name: Jayroop Ramesh
+  photo: Jayroop.jpg
+  info: DPhil student
+  email: jayroop.ramesh(at)cs.ox.ac.uk
+  number_educ: 0
+  education1:
