@@ -1,8 +1,17 @@
 - title: "Challenges for machine learning in clinical translation of big data imaging studies"
   image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
+  description: Review of key barriers to the use of machine learning in a medical context, despite the availability of large-scale population datasets of the human brain.
   authors: NK Dinsdale, E Bluemke, V Sundaresan, M Jenkinson, SM Smith, AIL Namburete
   link:
     url: https://doi.org/10.1016/j.neuron.2022.09.012
     display: Neuron (2022)
+  highlight: 1
+
+- title: "STAMP: Simultaneous Training and Model Pruning for low data regimes in medical image segmentation"
+  image: stamp2022_v2.png
+  description: Algorithm to reduce deep learning model size (without compromising on performance accuracy) by remove redundant features from convolutional neural networks during the training procedure.
+  authors: NK Dinsdale, M Jenkinson, AIL Namburete
+  link:
+    url: https://doi.org/10.1016/j.media.2022.102583
+    display: Medical Image Analysis (2022)
   highlight: 1
