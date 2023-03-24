@@ -1,0 +1,21 @@
+- name: Madeleine Wyburd
+  photo: Maddy.jpg
+  info: Postdoctoral Research Associate
+  email: madeleine.wyburd(at)cs.ox.ac.uk
+  number_educ: 2
+  education1: DPhil (PhD) in Computer Science
+  education2: Preserving Known Anatomical Topology in Medical Image Segmentation Using Deep Learning
+
+- name: Nicola Dinsdale
+  photo: Nicola.jpg
+  info: Postdoctoral Research Associate
+  email: nicola.dinsdale(at)cs.ox.ac.uk
+  number_educ: 1
+  education1: DPhil (PhD) in Clinical Neuroscience
+  
+- name: Pak Hei Yeung
+  photo: Hugo.jpg
+  info: Postdoctoral Research Associate
+  email: pak.yeung(at)eng.ox.ac.uk
+  number_educ: 1
+  education1: DPhil (PhD) in Engineering Science
