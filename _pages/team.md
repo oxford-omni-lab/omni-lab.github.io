@@ -75,7 +75,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-<br>
+
 ## Research Associates
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
@@ -138,7 +138,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-<br>
 
 
 ## DPhil Students
