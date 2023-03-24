@@ -9,21 +9,21 @@
 #  education4:
 
 - name: Linde Hesse
-  photo: Linde.jpg
+  photo: Linde.JPG
   info: DPhil student
   email: linde.hesse(at)eng.ox.ac.uk
   number_educ: 0
   education1:
 
 - name: Hoda Kalabizadeh
-  photo: Hoda.jpg
+  photo: Hoda.JPG
   info: DPhil student
   email: hoda.kalabizadeh(at)cs.ox.ac.uk
   number_educ: 0
   education1:
 
 - name: Jayroop Ramesh
-  photo: Jayroop.jpg
+  photo: Jayroop.JPG
   info: DPhil student
   email: jayroop.ramesh(at)cs.ox.ac.uk
   number_educ: 0
