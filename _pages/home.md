@@ -25,6 +25,8 @@ There are four main areas of research:
 4. **Understanding neurodevelopment**: Leveraging functional genomic data to understand physiological brain development and the pathology associated with neuropsychiatric disorders
 5. **Sex bias in ASD**: Identifying genes and gene networks that lead to the preponderance of males diagnosed with ASD
 
+![]({{ site.url }}{{ site.baseurl }}/images/group.jpg){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+
 ### Technologies and methods
 The OMNI Lab is primarily a computational group that uses a wide range of machine learning and image analysis methods to process large-scale population datasets of brain images. A list of tools and resources can be found in our [resources](resources) page.
 
