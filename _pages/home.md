@@ -6,10 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to OMNI Lab at University of Oxford
-
-
-![]({{ site.url }}{{ site.baseurl }}/images/Lab-OMNI.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Logo-OMNI.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
 By developing computational tools, the OMNI Lab aims to address key needs in modern medicine: (i) automated analysis relieves the requirement for highly-skilled radiologists; (ii) discovery of novel markers for diagnostic screening; (iii) software for portable devices, thus broadening access to high-quality care in the developing world; and (iv) investing in sophisticated software while leveraging existing imaging hardware provides a large cost benefit to an already constrained healthcare system.
