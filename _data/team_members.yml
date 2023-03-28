@@ -1,10 +1,59 @@
 - name: Ana Namburete
-  photo: Ana.JPG
-  info: Lab Lead / Associate Professor of Health Data Science and AI
-  email: ana.namburete(at)cs.ox.ac.uk
-  number_educ: 2
-  education1: Fetal brain development, Medical image analysis, Machine Learning
-  education2: Lead Tutorial Fellow (Computer Science), Pembroke College, University of Oxford
-  education3: Royal Academy of Engineering (RAEng) Research Fellow, Department of Engineering Science, University of Oxford
-  education4: Research fellow at St Hilda's College, University of Oxford
-  education5: Twitter @ana_namburete, @omni-lab
+  photo: Ana.jpg
+  info: Associate Professor
+  url: ananamburete
+  group: 0
+  
+- name: Nicola Dinsdale
+  photo: Nicola.jpg
+  info: Postdoctoral Researcher
+  url: 
+  group: 1
+
+- name: Madeleine Wyburd
+  photo: Maddy.jpg
+  info: Postdoctoral Researcher
+  url: 
+  group: 1
+
+- name: Pak Hei (Hugo) Yeung
+  photo: Hugo.jpg
+  info: Postdoctoral Researcher
+  url: 
+  group: 1
+
+- name: Linde Hesse
+  photo: Linde.jpg
+  info: DPhil Student
+  url: 
+  group: 2
+  
+- name: Hoda Kalabizadeh
+  photo: Hoda.jpg
+  info: DPhil Student
+  url: 
+  group: 2
+  
+- name: Jayroop Ramesh
+  photo: Jayroop.jpg
+  info: DPhil Student
+  url: 
+  group: 2
+  
+- name: Andrei Claudiu-Roibu
+  photo: Andrei.jpg
+  info: DPhil Student
+  url: 
+  group: 2  
+  
+- name: Tom Waddell
+  photo: Tom.jpg
+  info: DPhil Student
+  url: 
+  group: 2    
+  
+- name: Valentin Bacher
+  photo: Valentin.jpg
+  info: MSc Student
+  url: 
+  group: 3
