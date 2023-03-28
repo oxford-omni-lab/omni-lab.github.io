@@ -111,12 +111,12 @@ permalink: /team/
 
 ---
 
-## Visiting Scholars
+## MSc Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if member.group == 4 %}
+{% if member.group == 3 %}
 
 {% if even_odd == 0 %}
 <div class="row">
