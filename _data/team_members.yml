@@ -1,47 +1,47 @@
 - name: Ana Namburete
-  photo: Ana.jpg
+  photo: Ana.JPG
   info: Associate Professor
   url: ananamburete
   group: 0
   
 - name: Nicola Dinsdale
-  photo: Nicola.jpg
+  photo: Nicola.JPG
   info: Postdoctoral Researcher
   url: 
   group: 1
 
 - name: Madeleine Wyburd
-  photo: Maddy.jpg
+  photo: Maddy.JPG
   info: Postdoctoral Researcher
   url: 
   group: 1
 
 - name: Pak Hei (Hugo) Yeung
-  photo: Hugo.jpg
+  photo: Hugo.JPG
   info: Postdoctoral Researcher
   url: 
   group: 1
 
 - name: Linde Hesse
-  photo: Linde.jpg
+  photo: Linde.JPG
   info: DPhil Student
   url: 
   group: 2
   
 - name: Hoda Kalabizadeh
-  photo: Hoda.jpg
+  photo: Hoda.JPG
   info: DPhil Student
   url: 
   group: 2
   
 - name: Jayroop Ramesh
-  photo: Jayroop.jpg
+  photo: Jayroop.JPG
   info: DPhil Student
   url: 
   group: 2
   
 - name: Andrei Claudiu-Roibu
-  photo: Andrei.jpg
+  photo: Andrei.JPG
   info: DPhil Student
   url: 
   group: 2  
@@ -53,7 +53,7 @@
   group: 2    
   
 - name: Valentin Bacher
-  photo: Valentin.jpg
+  photo: Valentin.png
   info: MSc Student
   url: 
   group: 3
