@@ -9,7 +9,7 @@
 
 - title: "STAMP: Simultaneous Training and Model Pruning for low data regimes in medical image segmentation"
   image: stamp2022_v2.jpg
-  description: 
+  description: <code> <project page>
   authors: 
   link:
     url: https://doi.org/10.1016/j.media.2022.102583
@@ -18,7 +18,7 @@
 
 - title: "ImplicitVol: Sensorless 3D ultrasound reconstruction with deep implicit representation"
   image: implicitVol.gif
-  description: 
+  description: <code> <project page>
   authors: 
   link:
     url: https://arxiv.org/abs/2109.12108
@@ -27,7 +27,7 @@
   
 - title: "Subcortical segmentation of the fetal brain in 3D ultrasound using deep learning"
   image: subcortical_segmentation.png
-  description: 
+  description: <code> <project page>
   authors: 
   link:
     url: https://doi.org/10.1016/j.neuroimage.2022.119117
@@ -36,7 +36,7 @@
 
 - title: "Learning patterns of the ageing brain in MRI using deep convolutional networks"
   image: UKBiobank_age_estimation.png
-  description: 
+  description: <code> <project page>
   authors: 
   link:
     url: https://doi.org/10.1016/j.neuroimage.2020.117401
