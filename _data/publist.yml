@@ -7,6 +7,15 @@
     display: Dinsdale et al. Neuron (2022)
   highlight: 1
 
+- title: "FedHarmony: Unlearning scanner bias with distributed Data"
+  image: stamp2022_v2.jpg
+  description: <code> <project page>
+  authors: 
+  link:
+    url: https://doi.org/10.1016/j.media.2022.102583
+    display: Dinsdale et al. Medical Image Analysis (2022)
+  highlight: 1
+
 - title: "STAMP: Simultaneous Training and Model Pruning for low data regimes in medical image segmentation"
   image: stamp2022_v2.jpg
   description: <code> <project page>
@@ -24,7 +33,16 @@
     url: https://arxiv.org/abs/2109.12108
     display: Yeung et al. arXiv (2022)
   highlight: 1
-  
+
+- title: "Sli2Vol: Annotate a 3D Volume from a Single Slice with Self-supervised Learning"
+  image: sli2vol.gif
+  description: <code> <project page>
+  authors: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-87196-3_7
+    display: Yeung et al. MICCAI (2021)
+  highlight: 1
+
 - title: "Subcortical segmentation of the fetal brain in 3D ultrasound using deep learning"
   image: subcortical_segmentation.png
   description: <code> <project page>
