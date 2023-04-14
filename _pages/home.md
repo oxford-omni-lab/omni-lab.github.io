@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/Logo-OMNI.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Logo-OMNI.png){: style="width: 80%; float: center; margin-right: 0px;"}
 
 
 By developing computational tools, the OMNI Lab aims to address key needs in modern medicine: (i) automated analysis relieves the requirement for highly-skilled radiologists; (ii) discovery of novel markers for diagnostic screening; (iii) software for portable devices, thus broadening access to high-quality care in the developing world; and (iv) investing in sophisticated software while leveraging existing imaging hardware provides a large cost benefit to an already constrained healthcare system.
@@ -22,7 +22,7 @@ There are four main areas of research:
 4. **Understanding neurodevelopment**: Leveraging functional genomic data to understand physiological brain development and the pathology associated with neuropsychiatric disorders
 5. **Sex bias in ASD**: Identifying genes and gene networks that lead to the preponderance of males diagnosed with ASD
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/group.jpg){: style="width: 80%; float: center; margin: 0px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/group2023.JPG){: style="width: 80%; float: center; margin: 0px; border: 10px"}
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"} -->
 
 ### Technologies and methods
