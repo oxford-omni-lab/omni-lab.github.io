@@ -153,13 +153,6 @@ permalink: /team/
 {{ member.name }}
 {% endfor %}
 </div>
- 
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
@@ -168,6 +161,11 @@ permalink: /team/
 {% endfor %}
 </div>
 
-
+<div class="col-sm-4 clearfix">
+<h4>Visitors</h4>
+{% for member in site.data.alumni_visitors %}
+{{ member.name }}
+{% endfor %}
+</div>
 
 </div>
