@@ -19,14 +19,13 @@ By leveraging the strengths of deep learning, we aim to continue this progress u
 
 There are four main areas of research:
 
-1. **Developing models**: Genomic analysis of DNA using high-throughput sequencing to identify genes associated with human disorders
-2. **Model compression**: Using whole-genome sequencing to identify the elements of the noncoding genome that contribute to ASD
-3. **Data-private machine learning across multiple sites**: SCN2A mutations are one of the most common causes of ASD; we aim to understand how this risk is mediated with the view to developing therapeutics
-4. **Understanding fetal neurodevelopment**: Leveraging functional genomic data to understand physiological brain development and the pathology associated with neuropsychiatric disorders
-5. **Exploring developmental outcomes in infancy**: Identifying genes and gene networks that lead to the preponderance of males diagnosed with ASD
+1. **Developing machine learning models to characterise human fetal brain maturation**
+2. **Reducing computational burden of neural networks through model compression**
+3. **Federated learning techniques for training data-private, multi-site models for large-scale population**
+4. **Understanding fetal neurodevelopment and exploring developmental outcomes in infancy**
 
 ### Technologies and methods
-The OMNI Lab is primarily a computational group that uses a wide range of machine learning and image analysis methods to process large-scale population datasets of brain images. A list of tools and resources can be found in our [resources](resources) page.
+The OMNI Lab is primarily a computational group that uses a wide range of machine learning and image analysis methods to process large-scale population datasets of brain images. A list of tools and resources can be found via our [GitHub](resources) page.
 
 ### Joining the OMNI Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
