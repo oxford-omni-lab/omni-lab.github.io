@@ -1,3 +1,11 @@
+---
+title: "OMNI Lab - Contact"
+layout: gridlay
+excerpt: "OMNI Lab -- Contact"
+sitemap: false
+permalink: /contact/
+---
+
 ## Lab Location
 
 The OMNI Lab is housed just a few steps away from the Wolfson Buidlding of the Department of Computer Science (Oxford), ([Google Map](https://goo.gl/maps/hJHW2pXSe1xK5XFM7)):
