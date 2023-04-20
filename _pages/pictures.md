@@ -19,13 +19,13 @@ permalink: /pictures/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/group2023.jpg" alt="OMNI Group 2023" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/group2023.jpg" alt="OMNI Group 2023" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/group2022.jpg" alt="OMNI Group 2022" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/group2021.jpg" alt="OMNI Group 2021" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
