@@ -25,7 +25,7 @@ There are four main areas of research:
 4. **Understanding fetal neurodevelopment and exploring developmental outcomes in infancy**
 
 ### Technologies and methods
-The OMNI Lab is primarily a computational group that uses a wide range of machine learning and image analysis methods to process large-scale population datasets of brain images. A list of tools and resources can be found via our [GitHub](resources) page.
+The OMNI Lab is primarily a computational group that uses a wide range of machine learning and image analysis methods to process large-scale population datasets of brain images. A list of tools and resources can be found via our [GitHub](https://github.com/oxford-omni-lab) page.
 
 ### Joining the OMNI Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
