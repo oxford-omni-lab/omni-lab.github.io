@@ -7,48 +7,13 @@
     display: Yeung et al. Medical Image Analysis (2024)
   highlight: 1
 
-  - title: "Learning to map 2D ultrasound images into 3D space with minimal human annotation"
+- title: "Learning to map 2D ultrasound images into 3D space with minimal human annotation"
   image: sensorless.png
-  description: 
+  description: <code> <project page>
   authors: 
   link:
     url: https://pakheiyeung.github.io/AdLocUI_wp/
     display: Yeung et al. Medical Image Analysis (2021)
   highlight: 1
-
-  - title: "Geometric Transformation Uncertainty for Improving 3D Fetal Brain Pose Prediction from Freehand 2D Ultrasound Videos"
-  image: US.png
-  description: 
-  authors: 
-  link:
-    url: https://link.springer.com/chapter/10.1007/978-3-031-72378-0_39
-    display: Ramesh et al. MICCAI (2024)
-  highlight: 1
-
-   - title: "Adaptive 3D Localization of 2D Freehand Ultrasound Brain Images"
-  image: sensorless.png
-  description: 
-  authors: 
-  link:
-    url: https://pakheiyeung.github.io/AdLocUI_wp/
-    display: Yeung et al. MICCAI (2022)
-  highlight: 1
-
-  - title: "RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless 2D Scans"
-  image: triplanar.png
-  description: 
-  authors: 
-  link:
-    url: https://arxiv.org/pdf/2404.10766
-    display: Eid et al. ArXiv (2024)
-  highlight: 1
-
-  - title: "Sli2Vol: Annotate a 3D Volume from a Single Slice with Self-supervised Learning"
-  image: slice2vol.png
-  description: 
-  authors: 
-  link:
-    url: https://pakheiyeung.github.io/Sli2Vol_wp/
-    display: Yeung et al. MICCAI (2021)
-  highlight: 1
+  
 
