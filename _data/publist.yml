@@ -35,5 +35,14 @@
   highlight: 1
 
 
+- title: "Geometric Transformation Uncertainty for Improving 3D Fetal Brain Pose Prediction from Freehand 2D Ultrasound Videos"
+  image: US.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-72378-0_39
+    display: Ramesh et al. MICCAI (2024)
+  highlight: 2
+
 
 
