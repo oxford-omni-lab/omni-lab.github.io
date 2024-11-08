@@ -33,3 +33,21 @@
     url: https://pakheiyeung.github.io/AdLocUI_wp/
     display: Yeung et al. MICCAI (2022)
   highlight: 1
+
+- title: "RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless 2D Scans"
+  image: triplanar.png
+  description: 
+  authors: 
+  link:
+    url: https://arxiv.org/pdf/2404.10766
+    display: Eid et al. ArXiv (2024)
+  highlight: 1
+
+- title: "Sli2Vol: Annotate a 3D Volume from a Single Slice with Self-supervised Learning"
+  image: slice2vol.png
+  description: 
+  authors: 
+  link:
+    url: https://pakheiyeung.github.io/Sli2Vol_wp/
+    display: Yeung et al. MICCAI (2021)
+  highlight: 1
