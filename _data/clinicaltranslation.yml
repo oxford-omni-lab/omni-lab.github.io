@@ -54,7 +54,17 @@
   link:
     url: https://nkdinsdale.github.io/pruning_proj/
     display: Dinsdale et al. Medical Image Analysis (2022)
-  highlight: 2
+  highlight: 3
+
+
+- title: "Low-Memory CNNs Enabling Real-Time Ultrasound Segmentation Towards Mobile Deployment "
+  image: sagar.png
+  description: 
+  authors: 
+  link:
+    url: https://sgvaze.github.io/pages/lightweight_unets.html
+    display: Vaze et al. IEEE Journal of Biomedical and Health Informatics (2020)
+  highlight: 3
 
 
 # Biomarkers
