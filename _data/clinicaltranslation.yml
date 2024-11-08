@@ -18,13 +18,22 @@
     display: Dinsdale et al. bioRxiv (2024)
   highlight: 2
 
-- title: " SFHarmony: Source Free Domain Adaptation for Distributed Neuroimaging Analysis "
+- title: "SFHarmony: Source Free Domain Adaptation for Distributed Neuroimaging Analysis "
   image: bhatt.png
   description: 
   authors: 
   link:
     url: https://nkdinsdale.github.io/sfharmony_proj/
     display: Dinsdale et al. ICCV (2023)
+  highlight: 2
+
+- title: "FedHarmony: Unlearning Scanner Bias with Distributed Data  "
+  image: federated.png
+  description: 
+  authors: 
+  link:
+    url: https://nkdinsdale.github.io/fedharmony_proj/
+    display: Dinsdale et al. MICCAI (2022)
   highlight: 2
   
 # Model Compression
