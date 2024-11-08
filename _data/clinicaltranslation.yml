@@ -9,9 +9,24 @@
 
 # Distributed data and data privacy 
 
+- title: "UniFed: A unified deep learning framework for segmentation of partially labelled, distributed neuroimaging data"
+  image: unifed.png
+  description: 
+  authors: 
+  link:
+    url: https://nkdinsdale.github.io/unifed_proj/
+    display: Dinsdale et al. bioRxiv (2024)
+  highlight: 2
 
-
-
+- title: " SFHarmony: Source Free Domain Adaptation for Distributed Neuroimaging Analysis "
+  image: bhatt.png
+  description: 
+  authors: 
+  link:
+    url: https://nkdinsdale.github.io/sfharmony_proj/
+    display: Dinsdale et al. ICCV (2023)
+  highlight: 2
+  
 # Model Compression
 
 
