@@ -1,0 +1,27 @@
+- title: "Challenges for machine learning in clinical translation of big data imaging studies"
+  image: features.png
+  description: 
+  authors: 
+  link:
+    url: https://doi.org/10.1016/j.neuron.2022.09.012
+    display: Dinsdale et al. Neuron (2022)
+  highlight: 1
+
+# Distributed data and data privacy 
+
+
+
+
+# Model Compression
+
+
+
+# Biomarkers
+- title: "Is Your Style Transfer Doing Anything Useful? An Investigation Into Hippocampus Segmentation and the Role of Preprocessing"
+  image: hippocampus.png
+  description: 
+  authors: 
+  link:
+    url: https://www.medrxiv.org/content/10.1101/2024.08.22.24312425v1
+    display: Kalabizadeh et al. MLCN (2024)
+  highlight: 4
