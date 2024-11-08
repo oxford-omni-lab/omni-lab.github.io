@@ -15,18 +15,6 @@
   info: Postdoctoral Researcher
   url: 
   group: 1
-
-- name: Pak Hei (Hugo) Yeung
-  photo: Hugo.JPG
-  info: Postdoctoral Researcher
-  url: 
-  group: 1
-
-- name: Linde Hesse
-  photo: Linde.JPG
-  info: DPhil Student
-  url: 
-  group: 2
   
 - name: Hoda Kalabizadeh
   photo: Hoda.png
@@ -39,21 +27,27 @@
   info: DPhil Student
   url: 
   group: 2
-  
-- name: Andrei Claudiu-Roibu
-  photo: Andrei.JPG
-  info: DPhil Student
-  url: 
-  group: 2  
-  
-- name: Tom Waddell
-  photo: Tom.jpg
-  info: DPhil Student
-  url: 
-  group: 2    
-  
+      
 - name: Valentin Bacher
   photo: Valentin.png
-  info: MSc Student
+  info: DPhil Student
+  url: 
+  group: 2
+
+- name: Mark Eid
+  photo: mark.jpeg
+  info: DPhil Student
+  url: 
+  group: 2
+
+- name: Qiushi (Alan) Jin
+  photo: alan.jpg
+  info: BSc Student
   url: 
   group: 3
+
+- name: Pak Hei (Hugo) Yeung
+  photo: Hugo.JPG
+  info: Associate Member
+  url: 
+  group: 4
