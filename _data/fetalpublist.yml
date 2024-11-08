@@ -43,7 +43,7 @@
     display: Wyburd et al. PIPPI (2021)
   highlight: 1
 
-- title: "CLearning-based prediction of gestational age from ultrasound images of the fetal brain"
+- title: "Learning-based prediction of gestational age from ultrasound images of the fetal brain"
   image: brain_age_ana.png
   description: 
   authors: 
