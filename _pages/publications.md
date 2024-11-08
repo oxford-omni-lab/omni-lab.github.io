@@ -88,7 +88,7 @@ permalink: /publications/
 
 ## Publications by theme
 
-[Characterising the Fetal Brain]({{ site.url }}{{ site.baseurl }}/fetal_brain) / [⁠⁠2D-3D US Reconstruction]() /  ⁠⁠[Clinical Translation]() /  [⁠⁠Deep Learning Methodology]()
+[Characterising the Fetal Brain]({{ site.url }}{{ site.baseurl }}/fetal_brain) / [⁠⁠2D-3D US Reconstruction]({{ site.url }}{{ site.baseurl }}/2d3d) /  ⁠⁠[Clinical Translation]() /  [⁠⁠Deep Learning Methodology]()
 
 ---
 
