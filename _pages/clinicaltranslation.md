@@ -12,7 +12,7 @@ permalink: /clinicaltranslation/
 ---
 Deep learning has shown great promise in the research domain, but significant barriers still exist which limit the clinical translatability of deep learning models. Our research aims to tackle these barriers focusing on the challenges of: distributed data and  data privacy, model compression, and the development of clinically meaningful biomarkers.  
 
-  
+---
 {% assign number_printed = 0 %}
 {% for publi in site.data.clinicaltranslation %}
 
