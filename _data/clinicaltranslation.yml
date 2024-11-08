@@ -35,9 +35,26 @@
     url: https://nkdinsdale.github.io/fedharmony_proj/
     display: Dinsdale et al. MICCAI (2022)
   highlight: 2
+
+- title: "Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal  "
+  image: harm.png
+  description: 
+  authors: 
+  link:
+    url: https://nkdinsdale.github.io/harmproj/
+    display: Dinsdale et al. NeuroImage (2021)
+  highlight: 2
   
 # Model Compression
 
+- title: "STAMP: Simultaneous Training and Model Pruning for Low Data Regimes in Medical Image Segmentation"
+  image: pruning.png
+  description: 
+  authors: 
+  link:
+    url: https://nkdinsdale.github.io/pruning_proj/
+    display: Dinsdale et al. Medical Image Analysis (2022)
+  highlight: 2
 
 
 # Biomarkers
