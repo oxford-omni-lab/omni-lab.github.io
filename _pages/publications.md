@@ -16,7 +16,7 @@ permalink: /publications/
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
-{% assign even_odd = number_printed | modulo: 1 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
@@ -25,7 +25,7 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="row">
- 	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: right" />
+ 	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: right" />
   <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
   <a class="pub2"> {{ publi.link.display }} </a>
  </div>
@@ -40,7 +40,7 @@ permalink: /publications/
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 1 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
