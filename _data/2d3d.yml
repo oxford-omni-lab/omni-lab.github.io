@@ -25,3 +25,11 @@
     display: Ramesh et al. MICCAI (2024)
   highlight: 1
 
+- title: "Adaptive 3D Localization of 2D Freehand Ultrasound Brain Images"
+  image: sensorless.png
+  description: 
+  authors: 
+  link:
+    url: https://pakheiyeung.github.io/AdLocUI_wp/
+    display: Yeung et al. MICCAI (2022)
+  highlight: 1
