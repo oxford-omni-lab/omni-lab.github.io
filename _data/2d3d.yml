@@ -1,53 +1,83 @@
-- title: "Sensorless volumetric reconstruction of fetal brain freehand ultrasound scans with deep implicit representation"
-  image: sensorless.png
-  description: <code> <project page>
-  authors: 
-  link:
-    url: https://pakheiyeung.github.io/ImplicitVol_wp/
-    display: Yeung et al. Medical Image Analysis (2024)
-  highlight: 1
-
-  - title: "Learning to map 2D ultrasound images into 3D space with minimal human annotation"
-  image: sensorless.png
+- title: "Normative spatiotemporal fetal brain maturation with satisfactory development at 2 years"
+  image: USAtlas-ezgif.com-video-to-gif-converter.gif
   description: 
   authors: 
   link:
-    url: https://pakheiyeung.github.io/AdLocUI_wp/
-    display: Yeung et al. Medical Image Analysis (2021)
+    url: https://www.nature.com/articles/s41586-023-06630-3
+    display: Namburete et al. Nature (2023)
   highlight: 1
 
-  - title: "Geometric Transformation Uncertainty for Improving 3D Fetal Brain Pose Prediction from Freehand 2D Ultrasound Videos"
+- title: "Subcortical segmentation of the fetal brain in 3D ultrasound using deep learning"
+  image: us_seg.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1053811922002452
+    display: Hesse et al. NeuroImage (2022)
+  highlight: 1
+
+- title: "BEAN: Brain Extraction and Alignment Network for 3D Fetal Neurosonography"
+  image: fetal_brain.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1053811922004608
+    display: Moser et al. NeuroImage (2022)
+  highlight: 1
+
+- title: "Fully-automated alignment of 3D fetal brain ultrasound to a canonical reference space using multi-task learning"
   image: US.png
   description: 
   authors: 
   link:
-    url: https://link.springer.com/chapter/10.1007/978-3-031-72378-0_39
-    display: Ramesh et al. MICCAI (2024)
+    url: https://www.sciencedirect.com/science/article/pii/S1361841518300306
+    display: Namburete et al. Medical Image Analysis (2018)
   highlight: 1
-
-   - title: "Adaptive 3D Localization of 2D Freehand Ultrasound Brain Images"
-  image: sensorless.png
+  
+- title: "Cortical Plate Segmentation Using CNNs in 3D Fetal Ultrasound"
+  image: fissure.png
   description: 
   authors: 
   link:
-    url: https://pakheiyeung.github.io/AdLocUI_wp/
-    display: Yeung et al. MICCAI (2022)
+    url: https://link.springer.com/chapter/10.1007/978-3-030-87735-4_23
+    display: Wyburd et al. PIPPI (2021)
   highlight: 1
 
-  - title: "RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless 2D Scans"
-  image: triplanar.png
+- title: "Learning-based prediction of gestational age from ultrasound images of the fetal brain"
+  image: brain_age_ana.png
   description: 
   authors: 
   link:
-    url: https://arxiv.org/pdf/2404.10766
-    display: Eid et al. ArXiv (2024)
+    url: https://www.sciencedirect.com/science/article/pii/S136184151400190X?via%3Dihub
+    display: Namburete et al. Medical Image Analysis (2015)
   highlight: 1
+  
 
-  - title: "Sli2Vol: Annotate a 3D Volume from a Single Slice with Self-supervised Learning"
-  image: slice2vol.png
+- title: "Prototype learning for explainable brain age prediction"
+  image: US.png
   description: 
   authors: 
   link:
-    url: https://pakheiyeung.github.io/Sli2Vol_wp/
-    display: Yeung et al. MICCAI (2021)
+    url: https://openaccess.thecvf.com/content/WACV2024/html/Hesse_Prototype_Learning_for_Explainable_Brain_Age_Prediction_WACV_2024_paper.html
+    display: Hesse et al. WACV (2024)
   highlight: 1
+  
+- title: "Assessment of regional cortical development through fissure based gestational age estimation in 3D fetal ultrasound"
+  image: cortical_plate.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-52791-4_5
+    display: Wyburd et al. MIUA (2021)
+  highlight: 1
+
+- title: "Multi-task CNN for Structural Semantic Segmentation in 3D Fetal Brain Ultrasound"
+  image: us_seg.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-39343-4_14
+    display: Venturini et al. MIUA (2021)
+  highlight: 1
+  
+  
