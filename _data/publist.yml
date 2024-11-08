@@ -44,5 +44,31 @@
     display: Ramesh et al. MICCAI (2024)
   highlight: 2
 
+- title: "Is Your Style Transfer Doing Anything Useful? An Investigation Into Hippocampus Segmentation and the Role of Preprocessing"
+  image: hippocampus.png
+  description: 
+  authors: 
+  link:
+    url: https://arxiv.org/pdf/2404.10766
+    display: Kalabizadeh et al. MLCN (2024)
+  highlight: 2
+
+- title: "RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless 2D Scans"
+  image: triplanar.png
+  description: 
+  authors: 
+  link:
+    url: https://arxiv.org/pdf/2404.10766
+    display: Eid et al. ArXiv (2024)
+  highlight: 2
+
+- title: "Prototype learning for explainable brain age prediction"
+  image: US.png
+  description: 
+  authors: 
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2024/html/Hesse_Prototype_Learning_for_Explainable_Brain_Age_Prediction_WACV_2024_paper.html
+    display: Hesse et al. WACV (2024)
+  highlight: 2
 
 
