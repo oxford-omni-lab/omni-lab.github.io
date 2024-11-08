@@ -24,6 +24,15 @@
     url: https://www.sciencedirect.com/science/article/pii/S1053811922004608
     display: Moser et al. NeuroImage (2022)
   highlight: 1
+
+- title: "Fully-automated alignment of 3D fetal brain ultrasound to a canonical reference space using multi-task learning"
+  image: US.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1361841518300306
+    display: Namburete et al. Medical Image Analysis (2018)
+  highlight: 1
   
 - title: "Cortical Plate Segmentation Using CNNs in 3D Fetal Ultrasound"
   image: fissure.png
@@ -32,6 +41,25 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-87735-4_23
     display: Wyburd et al. PIPPI (2021)
+  highlight: 1
+
+- title: "CLearning-based prediction of gestational age from ultrasound images of the fetal brain"
+  image: brain_age_ana.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S136184151400190X?via%3Dihub
+    display: Namburete et al. Medical Image Analysis (2015)
+  highlight: 1
+  
+
+- title: "Prototype learning for explainable brain age prediction"
+  image: US.png
+  description: 
+  authors: 
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2024/html/Hesse_Prototype_Learning_for_Explainable_Brain_Age_Prediction_WACV_2024_paper.html
+    display: Hesse et al. WACV (2024)
   highlight: 1
   
 - title: "Assessment of regional cortical development through fissure based gestational age estimation in 3D fetal ultrasound"
@@ -42,4 +70,14 @@
     url: https://link.springer.com/chapter/10.1007/978-3-030-52791-4_5
     display: Wyburd et al. MIUA (2021)
   highlight: 1
+
+- title: "Multi-task CNN for Structural Semantic Segmentation in 3D Fetal Brain Ultrasound"
+  image: us_seg.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-39343-4_14
+    display: Venturini et al. MIUA (2021)
+  highlight: 1
+  
   
