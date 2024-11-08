@@ -8,12 +8,12 @@ permalink: /fetal_brain/
 
 
 # Characterising the Fetal Brain
+
+Normal development of the human brain can be characterized by precisely timed growth and folding of its surface (cortex), with deviations often associated with poor cognitive outcomes. Advances in ultrasound (US) imaging technology now make it possible to visualize the cortex and screen for brain abnormalities before birth, from as early as 14 gestational weeks (GW). Working closely with the INTERGROWTH-21st Consortium and healthcare professionals, we develop a range of computational tools for assessing fetal health from US images.
 ---
 
-## Featured
-
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.fetalpublist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -24,7 +24,7 @@ permalink: /fetal_brain/
 
 <div class="col-sm-6 clearfix">
  <div class="row">
- 	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: right" />
+ 	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="30%" height="30%"  style="float: left" />
   <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
   <a class="pub2"> {{ publi.link.display }} </a>
  </div>
@@ -46,12 +46,5 @@ permalink: /fetal_brain/
 
 <p> &nbsp; </p>
 
----
 
-<div>
-## Full List
 
-For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=6QzRJ6MAAAAJ">Google Scholar</a> or <a class="regtext" href="https://pubmed.ncbi.nlm.nih.gov/?term=Namburete+AIL%5BAuthor%5D">Pubmed</a>.
-<br><br><br>
-
-</div>
