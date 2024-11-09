@@ -1,35 +1,35 @@
 - name: Ana Namburete
-  photo: Ana-small.JPG
+  photo: Ana-small.jpeg
   info: Associate Professor
   url: https://www.pmb.ox.ac.uk/person/professor-ana-namburete
   group: 0
   
 - name: Nicola Dinsdale
-  photo: Nicola-small.png
+  photo: Nicola-small.jpeg
   info: Postdoctoral Researcher
   url: https://nkdinsdale.github.io/nkdinsdale/
   group: 1
 
 - name: Madeleine Wyburd
-  photo: Maddy-small.JPG
+  photo: Maddy-small.jpeg
   info: Postdoctoral Researcher
   url: https://mwyburd.github.io/
   group: 1
   
 - name: Hoda Kalabizadeh
-  photo: Hoda-small.png
+  photo: Hoda-small.jpeg
   info: DPhil Student
   url: https://scholar.google.com/citations?user=khrZnoUAAAAJ&hl=en
   group: 2
   
 - name: Jayroop Ramesh
-  photo: Jayroop-small.JPG
+  photo: Jayroop-small.jpeg
   info: DPhil Student
   url: https://jayroopramesh.github.io/
   group: 2
       
 - name: Valentin Bacher
-  photo: Valentin-small.png
+  photo: Valentin-small.jpeg
   info: DPhil Student
   url: https://www.linkedin.com/in/vbacher/?locale=de_DE
   group: 2
@@ -41,13 +41,13 @@
   group: 2
 
 - name: Qiushi (Alan) Jin
-  photo: alan-small.jpg
+  photo: alan-small.jpeg
   info: BSc Student
   url: https://www.linkedin.com/in/qiushi-jin/?originalSubdomain=uk
   group: 3
 
 - name: Pak Hei (Hugo) Yeung
-  photo: Hugo-small.JPG
+  photo: Hugo-small.jpeg
   info: Nanyang Technological University
   url: https://pakheiyeung.github.io/
   group: 4
