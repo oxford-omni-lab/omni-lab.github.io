@@ -1,0 +1,116 @@
+# segmentation
+
+- title: "Anatomically plausible segmentations: Explicitly preserving topology through prior deformations"
+  image: teds_new.png
+  description: <code> <project page>
+  authors: 
+  link:
+    url: https://mwyburd.github.io/TEDS-NET_wp/
+    display: Wyburd et al. Medical Image Analysis (2024)
+  highlight: 1
+
+- title: "Sli2Vol: Annotate a 3D Volume from a Single Slice with Self-supervised Learning"
+  image: slice2vol.png
+  description: 
+  authors: 
+  link:
+    url: https://pakheiyeung.github.io/Sli2Vol_wp/
+    display: Yeung et al. MICCAI (2021)
+  highlight: 1
+  
+- title: "STAMP: Simultaneous Training and Model Pruning for Low Data Regimes in Medical Image Segmentation"
+  image: pruning.png
+  description: 
+  authors: 
+  link:
+    url: https://nkdinsdale.github.io/pruning_proj/
+    display: Dinsdale et al. Medical Image Analysis (2022)
+  highlight: 1
+
+- title: "Uncertainty Estimates as Data Selection Criteria to Boost Omni-Supervised Learning"
+  image: us_seg.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-59710-8_67
+    display: Venturini et al. MICCAI (2020)
+  highlight: 1
+
+- title: "Spatial Warping Network for 3D Segmentation of the Hippocampus in MR Images"
+  image: hippocampus.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-32248-9_32
+    display: Dinsdale et al. MICCAI (2019)
+  highlight: 1
+
+- title: "Improving U-Net Segmentation with Active Contour Based Label Correction"
+  image: US.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-52791-4_6
+    display: Hesse et al. MIUA (2020)
+  highlight: 1
+
+- title: "TEDS-Net: Enforcing Diffeomorphisms in Spatial Transformers to Guarantee Topology Preservation in Segmentations"
+  image: teds_new.png
+  description: <code> <project page>
+  authors: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-87193-2_24
+    display: Wyburd et al. MICCAI (2021)
+  highlight: 1
+  
+# Domain adaptation 
+
+- title: "SFHarmony: Source Free Domain Adaptation for Distributed Neuroimaging Analysis "
+  image: bhatt.png
+  description: 
+  authors: 
+  link:
+    url: https://nkdinsdale.github.io/sfharmony_proj/
+    display: Dinsdale et al. ICCV (2023)
+  highlight: 2
+
+- title: "FedHarmony: Unlearning Scanner Bias with Distributed Data  "
+  image: federated.png
+  description: 
+  authors: 
+  link:
+    url: https://nkdinsdale.github.io/fedharmony_proj/
+    display: Dinsdale et al. MICCAI (2022)
+  highlight: 2
+
+- title: "Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal  "
+  image: seg.png
+  description: 
+  authors: 
+  link:
+    url: https://nkdinsdale.github.io/harmproj/
+    display: Dinsdale et al. NeuroImage (2021)
+  highlight: 2
+
+# interpretability
+
+- title: "Prototype learning for explainable brain age prediction"
+  image: US.png
+  description: 
+  authors: 
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2024/html/Hesse_Prototype_Learning_for_Explainable_Brain_Age_Prediction_WACV_2024_paper.html
+    display: Hesse et al. WACV (2024)
+  highlight: 3
+
+- title: "INSightR-Net: Interpretable Neural Network for Regression Using Similarity-Based Comparisons to Prototypical Examples"
+  image: US.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-16437-8_48
+    display: Hesse et al. MICCAI (2023)
+  highlight: 3
+
+
+
