@@ -15,7 +15,7 @@ Fundemental to to our research is the developement of state of the art DL method
 ---
 ## Segmentation
 {% assign number_printed = 0 %}
-{% for publi in site.data.clinicaltranslation %}
+{% for publi in site.data.dl_methods %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -52,7 +52,7 @@ Fundemental to to our research is the developement of state of the art DL method
   
 ## Domain Adaptation 
 {% assign number_printed = 0 %}
-{% for publi in site.data.clinicaltranslation %}
+{% for publi in site.data.dl_methods %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 2 %}
@@ -87,7 +87,7 @@ Fundemental to to our research is the developement of state of the art DL method
 ---
 ## Intepretability 
 {% assign number_printed = 0 %}
-{% for publi in site.data.clinicaltranslation %}
+{% for publi in site.data.dl_methods %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 3 %}
