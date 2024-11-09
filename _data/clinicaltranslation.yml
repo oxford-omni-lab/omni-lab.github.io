@@ -77,6 +77,15 @@
     display: Dinsdale et al. NeuroImage (2021)
   highlight: 4
 
+- title: "Is Your Style Transfer Doing Anything Useful? An Investigation Into Hippocampus Segmentation and the Role of Preprocessing"
+  image: hippocampus.png
+  description: 
+  authors: 
+  link:
+    url: https://www.medrxiv.org/content/10.1101/2024.08.22.24312425v1
+    display: Kalabizadeh et al. MLCN (2024)
+  highlight: 4
+
 - title: "Brain Ages Derived from Different MRI Modalities are Associated with Distinct Biological Phenotypes"
   image: age_pred.png
   description: 
@@ -85,6 +94,7 @@
     url: https://ieeexplore.ieee.org/xpl/conhome/10196673/proceeding
     display: Roibu et al. SDS (2023)
   highlight: 4
+
 
 
 
