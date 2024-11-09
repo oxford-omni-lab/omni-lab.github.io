@@ -86,15 +86,6 @@
     display: Kalabizadeh et al. MLCN (2024)
   highlight: 4
 
-- title: "The impact of transfer learning on 3D deep learning convolutional neural network segmentation of the hippocampus in mild cognitive impairment and Alzheimer disease subjects"
-  image: hippocampus.png
-  description: 
-  authors: 
-  link:
-    url: https://www.medrxiv.org/content/10.1101/2024.08.22.24312425v1
-    display: Balboni et al. Human Brain Mapping (2022)
-  highlight: 4
-
   - title: "Brain Ages Derived from Different MRI Modalities are Associated with Distinct Biological Phenotypes"
   image: age_pred.png
   description: 
