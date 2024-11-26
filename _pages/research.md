@@ -1,6 +1,6 @@
 ---
 title: "OMNI Lab - Research"
-layout: textlay
+layout: gridlay
 excerpt: "OMNI Lab -- Research"
 sitemap: false
 permalink: /research/
