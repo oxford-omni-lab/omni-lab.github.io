@@ -1,7 +1,7 @@
 ---
-title: "OMNI Lab - Contact"
+title: "OMNI Lab - Lab Location"
 layout: gridlay
-excerpt: "OMNI Lab -- Contact"
+excerpt: "OMNI Lab -- Lab Location"
 sitemap: false
 permalink: /contact/
 ---
