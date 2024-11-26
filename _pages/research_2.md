@@ -1,9 +1,9 @@
 ---
-title: "OMNI Lab - Research"
+title: "OMNI Lab - Research_2"
 layout: textlay
-excerpt: "OMNI Lab -- Research"
+excerpt: "OMNI Lab -- Research_2"
 sitemap: false
-permalink: /research/
+permalink: /research_2/
 ---
 
 # Research Highlights
